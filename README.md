@@ -1,3 +1,6 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Hiden%20Lee&fontSize=90&animation=scaleIn)
+
+
 ### Hi there 👋
 
 <!--
